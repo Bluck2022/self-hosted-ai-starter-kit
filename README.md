@@ -39,18 +39,10 @@ Engineering world, handles large amounts of data safely.
 
 ## Installation
 
-### For Nvidia GPU users
-
-```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
-cd self-hosted-ai-starter-kit
-docker compose --profile gpu-nvidia up
-```
-
 ### For everyone else
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
+git clone https://github.com/Bluck2022/self-hosted-ai-starter-kit.git
 cd self-hosted-ai-starter-kit
 docker compose --profile cpu up
 ```

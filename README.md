@@ -1,4 +1,4 @@
-# Self-hosted AI starter kit No Ollma version
+# Self-hosted AI starter kit No ollma version
 
 **Self-hosted AI Starter Kit** is an open, docker compose template that
 quickly bootstraps a fully featured Local AI and Low Code development

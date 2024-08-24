@@ -88,7 +88,11 @@ language model and Qdrant as your vector store.
 > projects. You can customize it to meet your specific needs
 
 ## Upgrading
-
+## 修改配置:
+1.工作流历史运行记录保存168小时
+2.最多2000条
+3.端口443:5678
+4.SSL证书和docker-compose.yml同一个目录
 ### For Nvidia GPU users
 
 ```
